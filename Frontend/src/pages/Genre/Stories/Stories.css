@@ -1,0 +1,107 @@
+.story-container
+ {
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+ } 
+.story-title
+ {
+    margin-top:70px;
+    font-size: 24px;
+    font-weight: bold;
+    bottom:30px;
+    color: white;
+ }
+ .story-author
+ {
+    margin-top:-15px;
+    margin-left: 500px;
+    color:white;
+ }
+.story-image
+ {
+    max-width: 100%;
+    margin-left: 0%;
+    height: auto;
+ }
+.story-content
+ {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0;
+    text-align: justify;
+    width: 90%;
+    margin-left: 70px;
+    color: white;
+    /* position:static; */
+    z-index: 1000; 
+ }
+.like-button 
+{
+   background-color:#4caf50; 
+   color: white;
+   border: none;
+   right: 150px;
+   padding: 10px 20px;
+   border-radius: 20px;
+   cursor: pointer;
+   top: 30px;
+   position: relative;
+ }
+ .like-count 
+ {
+   color: white; 
+   right: 140px;
+   top: 30px;
+   position: relative;
+ }
+ .dislike-button 
+ {
+   background-color: #f44336; 
+   color: white; 
+   border: none;
+   border-radius: 20px;
+   padding: 10px 20px;
+   cursor: pointer;
+   right: 30px;
+   top: 30px;
+   position: relative;
+ }
+ .dislike-count 
+ {
+   color: white; 
+   right: 20px;
+   top: 30px;
+   position: relative;
+ }
+ .star-rating 
+ {
+   display: inline-block;
+   font-size: 24px;
+   position: relative;
+   color: white;
+   bottom: 9px;
+   left:300px;
+ }
+ .star 
+ {
+   cursor: pointer;
+ }
+ .filled 
+ {
+   color: #ffd700;
+ }
+ .t7
+ {
+   color:white;
+   position: relative;
+   bottom: 9px;
+   left:290px;
+   padding: 7px 20px;
+   background-color:grey; 
+   border-radius: 20px;
+ }
+.DraftEditor-root
+{
+  z-index: 1000;
+}

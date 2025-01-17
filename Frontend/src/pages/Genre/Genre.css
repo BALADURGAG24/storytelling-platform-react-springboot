@@ -1,0 +1,492 @@
+.hbg
+ {
+    background-color:black;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding: 1px;
+    height:2000px;
+ }
+.navbar
+ {
+   top: 0px;
+    padding: 1px;
+    font-family: arial;
+    background-color:black;
+    height: 80px;
+    width: 1700px;;
+    text-align: center;
+    position: fixed;
+    /* z-index: -1000;   */
+ }
+ /* .navbar1 
+ {
+    padding: 1px;
+    font-family: arial;
+    background-color:blue;
+    height: 80px;
+    width: 1700px;;
+    text-align:center;
+    position: fixed;
+    top: 0px;
+ } */
+.navbar a 
+ {
+    float: left;
+    font-size: larger;
+    color:white;
+    border-radius: 5px;
+    margin-top: 15px;
+    padding: 14px 16px;
+    text-decoration: none;
+ }
+.navbar1 a 
+ {
+    float: left;
+    font-size: larger;
+    color:white;
+    border-radius: 5px;
+    margin-top: 15px;
+    padding: 14px 16px;
+    text-decoration: none;
+ } 
+.dropdown 
+ {
+    float: left;
+    overflow: hidden;
+    margin-top: -10px;
+ }
+.dropdown1 
+ {
+    float: left;
+    overflow: hidden;
+    margin-top: -10px;
+ } 
+.dropdown .dropbtn 
+ {
+    background-color:grey;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    color: white;
+    font-size: larger;
+    padding: 14px 16px;
+    background-color: inherit;
+    margin-top: 25px;
+    right: 80px;
+ }
+.navbar a:hover, .dropdown:hover .dropbtn 
+ {
+    background-color:grey;
+    height:fit-content;
+ }
+ .dropdown-content 
+ {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+ }
+.dropdown-content1a 
+ {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+ }
+.dropdown-content a 
+ {
+    float: none;
+    color: white;
+    padding: 10px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+ }
+.dropdown-content a:hover 
+ {
+    background-color: #ddd;
+ }
+.dropdown:hover .dropdown-content 
+ {
+    display: block;
+ }
+.con1
+ {
+    background-color:white;
+    background-size: cover;
+    background-attachment: fixed;
+    height:500px;
+    width:350px;
+    margin-left:200px;
+    margin-top:50px;
+    border-radius: 30px;
+ }
+.img1
+ {
+    background-size: cover;
+    background-attachment: fixed;
+    height:500px;
+    width:350px; 
+    border-radius: 30px;
+ }
+.con2
+ {
+    background-color:whitesmoke;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    margin-left:600px;
+    margin-top:-500px;
+    border-radius: 30px;
+ }
+.img2
+ {
+    background-size: cover;
+    background-attachment: fixed;
+    height:500px;
+    width:350px;
+    border-radius: 30px;
+ }
+.con3
+ {
+    background-color:whitesmoke;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    margin-left:1000px;
+    margin-top:-500px;
+    border-radius: 30px;
+ }
+.img3
+ {
+    background-size: cover;
+    background-attachment: fixed;
+    height:500px;
+    width:350px;
+    border-radius: 30px;
+ }
+.con4
+ {
+    background-color:whitesmoke;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    margin-left:200px;
+    margin-top:90px;
+    border-radius: 30px;
+ }
+.img4
+ {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    border-radius: 30px;
+ }
+.con5
+ {
+    background-color:whitesmoke;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    margin-left:600px;
+    margin-top:-500px;
+    border-radius: 30px;
+ }
+.img5
+ {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    border-radius: 30px;
+ }
+.con6
+ {
+    background-color:whitesmoke;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    margin-left:1000px;
+    margin-top:-500px;
+    border-radius: 30px;
+ }
+.img6
+ {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    border-radius: 30px;
+ }
+.con7
+  {
+    background-color:whitesmoke;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    margin-left:200px;
+    margin-top:100px;
+    border-radius: 30px;
+  }
+.img7
+  {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    border-radius: 30px;
+  }
+.con8
+  {
+    background-color:whitesmoke;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    margin-left:600px;
+    margin-top:-500px;
+    border-radius: 30px;
+  }
+.img8
+  {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    border-radius: 30px;
+  }
+.con9
+  {
+    background-color:whitesmoke;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    margin-left:1000px;
+    margin-top:-500px;
+    border-radius: 30px;
+  }
+.img9
+  {
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+    height:500px;
+    width:350px;
+    border-radius: 30px;
+  }
+/* .con1 
+ {    
+    transition: 0.5s all ease-in-out;
+ } 
+.con1:hover
+ {
+     transform: scale(1.05);
+ }
+.con2 
+ {    
+  transition: 0.5s all ease-in-out;
+ }
+.con2:hover
+ {
+ transform: scale(1.05);
+ }
+.con3 
+ {   
+  transition: 0.5s all ease-in-out;
+ }
+.con3:hover
+ {
+ transform: scale(1.05);
+ }
+.con4 
+ {    
+    transition: 0.5s all ease-in-out;
+ } 
+.con4:hover
+ {
+  transform: scale(1.05);
+ }
+.con5 
+ {   
+    transition: 0.5s all ease-in-out;
+ }
+.con5:hover
+ {
+     transform: scale(1.05);;
+ }
+.con6  
+ {
+    transition: 0.5s all ease-in-out;
+ } 
+.con6:hover
+ {
+    transform: scale(1.05);
+ }
+.con7
+ {   
+    transition: 0.5s all ease-in-out;
+ } 
+.con7:hover
+ {
+  transform: scale(1.05);
+ }
+.con8  
+ {   
+    transition: 0.5s all ease-in-out;
+ }
+.con8:hover
+ {
+    transform: scale(1.05);
+ }
+.con9 
+ {
+  transition: 0.5s all ease-in-out;
+ }
+.con9:hover
+ {
+  transform: scale(1.1);
+ }  */
+.ol3
+ {
+  color:grey;
+  font-family: challista;
+  font-size: xx-large;
+  font-weight: bolder;
+ }
+.search-bar input 
+ {
+  width: 20%;
+  padding: 10px;
+  border: 1px solid white;
+  background-color:white;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left:-1100px;
+  outline: none;
+  border-color: black;
+ }
+.rr 
+ {
+  text-align: center;
+  margin-left: 1200px;
+  margin-top: 20px;
+  color:white;
+  font-family: arial;
+ }
+.logo
+ {
+  height:30px;
+  margin-top: -10px;
+  margin-left: 10px;
+ }
+.cr 
+ {
+  margin-left: -100px;
+ }
+.main
+ {
+  height:100px;
+  width:200px;
+  margin-right:500px;
+ }
+.search-bar
+ {
+  margin-top: 100px;
+ }
+ .footer {
+   bottom: 0;
+   left: 0;
+   font-family: Arial, sans-serif;
+   background-color: black;
+   height: 40px;
+   width: 100%; 
+   text-align: center;
+   position: fixed;
+   z-index: 1; 
+}
+
+.footer1 {
+   bottom: 0;
+   left: 0;
+   font-family: Arial, sans-serif; 
+   background-color: black;
+   height: 40px;
+   width: 100%; 
+   text-align: center;
+   position: fixed;
+   z-index: -1; 
+}
+
+.hlo
+ {
+  position: fixed;
+  right: 10%;
+  bottom: 5px;
+  padding: 4px;
+  color:white;
+ }
+.bro
+ {
+  position: fixed;
+  left: 10%;
+  bottom: 5px;
+  padding: 4px;
+ color: white; 
+ }
+.cry
+ {
+  position: fixed;
+  right: 40%;
+  bottom: 5px;
+  padding: 4px;
+  color:grey;
+ }
+.name
+ {
+  font-size: large;
+  margin-top:-15px;
+  margin-left:10px;
+ }
+
+ .hlo1
+ {
+  position: fixed;
+  right: 30%;
+  bottom: 5px;
+  padding: 4px;
+  color:white;
+ }
+.bro1
+ {
+  position: fixed;
+  left: 28%;
+  bottom: 5px;
+  padding: 4px;
+ color: white; 
+ }

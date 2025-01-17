@@ -1,0 +1,34 @@
+.hbg12
+{
+    background-color:white;
+}
+  .oc12
+  {
+    background-color:lightgray;
+    top: 130px;
+    position: fixed;
+    width:300px;
+    margin-left:300px;
+  }
+  .imo12
+  {
+    margin-left:150px ;
+    margin-top: 170px;
+    height:350px;
+    width:300px;
+  }
+ .wr12
+ {
+  font-weight: bolder;
+  font-family: serif;
+  font-size: 80px;
+  margin-left: 600px;
+  margin-top: -500px;
+  color:black;
+ }
+ .onclick
+ {
+  position: fixed;
+  left:1440px ;
+  top: 20px;
+ }

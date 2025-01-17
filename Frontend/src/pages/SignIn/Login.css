@@ -1,0 +1,87 @@
+.bg1
+ {
+  background-image:url("E:\DAY 8\public\1.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top:1px;
+    height:1063px;
+    margin-top:-200px;
+    background-color: black;
+ } 
+.container
+ {
+  background-color:white;
+  border-radius: 10%;
+  height:400px;
+  width:400px;
+  margin-top: 350px;
+  margin-left: 900px;
+  padding: 50px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+ .container66
+ {
+  background-color:white;
+  border-radius: 10%;
+  height:400px;
+  width:400px;
+  margin-top: 350px;
+  margin-left: 900px;
+  padding: 50px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+.head
+ {
+  width:590px;
+  font-size: larger;
+  font-weight: bold;
+  margin-left:-100px;
+  padding: 5px;
+  font-family:cursive;
+ }
+.bt
+ {
+  background-color:black;
+  border-radius: 5px;
+  border: none;
+  margin-top: 50px;
+  color:white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  margin:10px;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+.input-field
+ {
+  width:300px;
+  height:25px;
+  margin: 8px 0;
+ }
+.input-field2
+ {
+  width:300px;
+  height:25px;
+  margin: 8px 0;
+ }
+.field1
+ {
+  margin-left:-260px;
+  font-family:cursive;
+ }
+.field2
+ {
+  margin-left:-230px;
+  font-family:cursive;
+ }
+.bb
+ {
+  color: white;
+ }
+.fpa
+ {
+  position:relative;
+  top:-30px;
+ }

@@ -1,0 +1,67 @@
+.bg1a
+ {
+    background-image: url("E:\DAY 8\public\adminlogo.png");
+    background-color:black;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top:1px;
+    width:2000px;
+    height:1300px;
+    left: 0px;
+    position: fixed;
+   bottom:-300px;
+ }
+.containera
+ {
+  background-color:white;
+  border-radius: 25px;
+  height:400px;
+  width:400px;
+  margin-top: 350px;
+  margin-left: 100px;
+  padding: 50px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+.heada
+ {
+  width:590px;
+  font-size: larger;
+  font-weight: bold;
+  margin-left:-100px;
+  padding: 5px;
+  font-family:serif;
+ }
+.bta
+ {
+  background-color:white;
+  border: none;
+  margin-top: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+.input-fielda
+ {
+  width:300px;
+  height:25px;
+  margin: 8px 0; 
+ }
+.input-field2a
+ {
+  width:300px;
+  height:25px;
+  margin: 8px 0;
+ }
+.field1a
+ {
+  margin-left:-260px;
+  font-family:serif;
+ }
+.field2a
+ {
+  margin-left:-230px;
+  font-family:serif;
+ }

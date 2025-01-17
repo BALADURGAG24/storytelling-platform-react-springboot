@@ -1,0 +1,255 @@
+.navbarco a
+ {
+    float: left;
+    font-size: 16px;
+    font-family:serif;
+    color:white;
+     margin-top: 25PX;
+    padding: 14px 16px;
+    text-decoration: none;
+ }
+.cbg
+ {
+    height:700px; 
+    overflow: hidden;  
+ }
+.hrr
+ {
+    width:1000px;
+ }
+.em
+ { 
+    text-align:left;
+    color:rgb(40,40,101);
+    margin-right:1500px;
+ }
+.phone
+ {   
+    text-align:left;
+    margin-right:1500px;
+    color:rgb(40,40,101);
+ }
+.location
+ {   text-align:left;
+    margin-right:1500px;
+    color:rgb(40,40,101);
+ }
+.ques
+ {  
+    text-align:centre;
+    margin-right: 1000px;
+    font-weight:bold;
+    color:rgb(40,40,101);
+ }
+.po
+ {
+    text-align: left;
+    margin-right:1000px;
+    color:rgb(40,40,101);
+ }
+.qc
+ {
+   margin-top: 50px;
+   margin-left:70px
+ }
+.myd
+ {
+    margin-left:70px; 
+ }
+.contco
+ {
+    background-color:white;
+    height:550px;
+    width:300px;
+    margin-left:1200px ;
+    margin-top:-350px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+.contacts
+ {
+    height:200px;
+    width:300px;   
+ }
+.logo1
+ { 
+  height: 50px;
+  margin-right:40px; 
+ }
+.logo2
+ {
+    height: 50px;
+    margin-right:40px;   
+ }
+.logo3
+ {
+    height: 50px;  
+ }
+.logos
+ {
+   margin-top: 50px;
+ }
+.ld
+ {
+    margin-left:50px;
+    color:rgb(40,40,101)
+ }
+.form1
+ {
+    background-color: white;
+    border-radius: 30px;
+    width: 510px;
+    position: fixed;
+    top: 55%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+.h1
+ {
+    height:30px;
+    width:400px;
+    border: none; outline: none; background: transparent; border-bottom: 1px solid black;
+ }
+.h2
+ {
+    height:30px;
+    width:400px;
+    border: none; outline: none; background: transparent; border-bottom: 1px solid black; 
+ }
+.h3
+ {
+    height:30px;
+    width:400px;
+    border: none; outline: none; background: transparent; border-bottom: 1px solid black;
+ }
+.h4
+ {
+    height:30px;
+    width:400px;
+    border: none; outline: none; background: transparent; border-bottom: 1px solid black;
+ }
+.form1
+ {
+    color:rgb(40,40,101);
+ }
+.f1
+ {
+    color:rgb(40,40,101);
+    font-weight: bold;
+ }
+.f2
+ {
+    color:rgb(40,40,101);
+    font-weight: bold;
+ }
+.f3
+ {
+    color:rgb(40,40,101);
+    font-weight: bold;
+ }
+.f4
+ {
+    color:rgb(40,40,101);
+    font-weight: bold;
+ }
+.f5
+ {
+    color:rgb(40,40,101);
+    font-weight: bold;
+ }
+.btr
+ {
+    background-color:grey;
+    border: none;
+    margin-top:0px;
+    color:white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom:30px;
+    margin-left: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+.pp1 a
+ {
+  color:white;
+  position:fixed;
+  padding: 5px;
+  right:5%;
+  bottom:-5px;
+  text-decoration: none;
+ }
+.tc1 a 
+ {
+  color:white;
+  position:fixed;
+  padding: 5px;
+  left:5%;
+  bottom:-5px;
+  text-decoration: none;
+ }
+.cop1
+ {
+  color:white;
+  position:fixed;
+  padding: 5px;
+  left:40%;
+  bottom:-5px;
+ }
+ 
+
+
+/* .feedback-display {
+   width: 300px;
+   margin: 0 auto;
+   padding: 20px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   background-color: #f9f9f9;
+}
+
+.feedback-display h2 {
+   font-size: 18px;
+   margin-bottom: 10px;
+}
+
+.feedback-display p {
+   margin: 10px 0;
+}
+
+.feedback-display strong {
+   font-weight: bold;
+} */
+
+.container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   max-height: 1000px;
+   overflow-y: auto;
+   position: fixed;
+   border-radius: 20px;
+   top: -20%;
+   right: 15%;
+ }
+ 
+ .super {
+   position: relative;
+   width: calc(33.33% - 20px);
+   margin: 10px; 
+   background-color: #f5f5f5;
+   border: 1px solid #e0e0e0;
+   border-radius: 8px;
+   padding: 20px; 
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+   font-size: 16px;
+   color: #333; 
+ }
+ 
+ .super div {
+   margin-bottom: 10px;
+ }
+ 
+ 

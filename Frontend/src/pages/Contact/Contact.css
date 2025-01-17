@@ -1,0 +1,127 @@
+.contact-container {
+  max-width: 350px;
+  position: fixed;
+  top: 120px;
+  left: 1000px;
+  padding: 50px;
+  height: 490px;
+  background-color: #f0f8ff; /* Light Blue */
+  border: 1px solid grey;
+  border-radius: 15px;
+  box-shadow: 0 4px 3px rgba(0, 0, 0, 0.1);
+}
+.contact-container label
+ {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+ }
+.contact-container input[type="text"],
+.contact-container input[type="number"],
+.contact-container input[type="email"],
+.contact-container textarea 
+ {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 16px;
+  border: 5px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+ }
+.contact-container textarea 
+ {
+  height: 120px;
+ }
+.contact-container input[type="submit"]
+ {
+  background-color: #0056b3;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+ }
+.contact-container input[type="submit"]:hover
+ {
+  background-color: #0056b3;
+ }
+.image-containers
+ {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+ }
+.overall
+ {
+  background-color: cyan;
+  padding: 30px;
+  width: 40%;
+  bottom: 50px;
+ }
+.facebook2 
+ {
+  height: 50px;
+  position: fixed;
+  bottom: 80px;
+  left: 300px;
+  position: fixed;
+ }
+.insta2 
+ {
+  height: 50px;
+  position: fixed;
+  bottom:80px;
+  left: 400px;
+ }
+.twitter2 
+ {
+  height: 50px;
+  position: fixed;
+  bottom:80px;
+  left:500px;
+ }
+.youtube2
+ {
+  height: 70px;
+  width: 50px;
+  position: fixed;
+  bottom: 70px;
+  left:600px;
+ }
+.addresss
+ {
+   margin-left: 200px;
+   margin-top: 120px;
+ }
+.phone
+ {
+  margin-left: 200px;
+  margin-top: -70px;
+ }
+.mail
+ {
+  position: fixed;
+  left: 500px;
+  top: 150px;
+ }
+.faxx
+ {
+  position: fixed;
+  left: 500px;
+  top: 360px;
+ }
+.centered-message 
+ {
+  position: fixed;
+  top: 19%;
+  left: 78.5%;
+  transform: translate(-50%, -50%);
+  background-color: #0056b3;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  z-index: 9999;
+  text-align: center;
+ } 
+
