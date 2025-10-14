@@ -6,7 +6,7 @@ A modern **Storytelling Platform** designed to enable users to create, share, an
 ## Technologies Used
 
 - **Frontend**: React (for the user interface)
-- **Backend**: Spring Boot (for the RESTful API)
+- **Backend**: Spring Boot (for the RESTful API) 
 - **Database**: 
   - H2 (for development) 
   - MySQL/PostgreSQL (for production) via JPA (Java Persistence API)
