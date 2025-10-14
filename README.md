@@ -10,7 +10,7 @@ A modern **Storytelling Platform** designed to enable users to create, share, an
 - **Database**: 
   - H2 (for development) 
   - MySQL/PostgreSQL (for production) via JPA (Java Persistence API)
-- **Authentication**: JWT (JSON Web Tokens) for secure user login
+- **Authentication**: JWT (JSON Web Tokens) for secure user login 
 - **Styling**: Tailwind CSS or Material-UI for UI components
 - **State Management**: React Context or Redux (if needed)
 - **API Communication**: Axios for HTTP requests
