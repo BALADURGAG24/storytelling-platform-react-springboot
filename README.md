@@ -7,7 +7,7 @@ A modern **Storytelling Platform** designed to enable users to create, share, an
 
 - **Frontend**: React (for the user interface)
 - **Backend**: Spring Boot (for the RESTful API) 
-- **Database**: 
+- **Database**:  
   - H2 (for development) 
   - MySQL/PostgreSQL (for production) via JPA (Java Persistence API)
 - **Authentication**: JWT (JSON Web Tokens) for secure user login 
