@@ -15,7 +15,7 @@ A modern **Storytelling Platform** designed to enable users to create, share, an
 - **State Management**: React Context or Redux (if needed)  
 - **API Communication**: Axios for HTTP requests 
 
-## Features 
+## Features  
 
 - **User Authentication**: 
   - Users can register, log in, and manage their accounts using JWT-based authentication.
